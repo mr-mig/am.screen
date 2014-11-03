@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "am.channel": "git://github.com/mr-mig/am.channel",
-    "am.link": "git://github.com/mr-mig/am.link"
+    "am.convention": "git://github.com/mr-mig/am.convention",
+    "am.link": "git://github.com/mr-mig/am.link",
+    "angular-cjs": "git://github.com/mr-mig/angular-cjs"
   }
 }
